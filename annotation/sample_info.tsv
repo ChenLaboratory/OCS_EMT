@@ -1,0 +1,13 @@
+sample_id	paper_name	batch	pathology	mixed	flex_counts	flex_min_genes	flex_max_umi	flex_max_mt	visium_dir	visium_min_umi	visium_min_genes	visium_max_mt
+21_1463_5A	#177	1	100% sarcoma	FALSE	G000178_batch3_1/21_1463_5A	500	6000	5	G000178_4/21_1463_5A	3000	500	10
+20_2678_9A	#264	1	95% carcinoma & 5% sarcoma	FALSE	G000178_batch3_1/20_2678_9A	500	15000	5	G000178_4/20_2678_9A	3000	500	10
+20_750_11A	#233	1	80% carcinoma & 20% sarcoma	TRUE	G000178_batch3_1/20_750_11A	500	10000	5	G000178_4/20_750_11A	3000	500	10
+23_1253_20A	#105	1	50% carcinoma & 50% sarcoma	TRUE	G000178_batch3_1/23_1253_20A	500	50000	5	G000178_4/23_1253_20A	3000	500	10
+23_1407_45A	PH142	2	40% carcinoma & 60% sarcoma	TRUE	G000178_batch6_1/23_1407_45A/sample_filtered_feature_bc_matrix.h5	500	20000	5	G000178_5/23_1407_45A	3000	1500	10
+23_1694_56A	PH003mixed	2	Admixed carcinoma/sarcoma	FALSE	G000178_batch6_1/23_1694_56A/sample_filtered_feature_bc_matrix.h5	500	10000	5	G000178_5/23_1694_56A	3000	1500	10
+23_1922_42A	PH419	2	70% carcinoma & 30% sarcoma	TRUE	G000178_batch6_1/23_1922_42A/sample_filtered_feature_bc_matrix.h5	500	20000	5	G000178_5/23_1922_42A	3000	1500	10
+23_2182_9A	#436	2	100% carcinoma	FALSE	G000178_batch6_1/23_2182_9A/sample_filtered_feature_bc_matrix.h5	500	30000	5	G000178_5/23_2182_9A	3000	1500	10
+21_410_10A	PH592sensitive	3	Undifferentiated high grade tumour	FALSE	G000178_batch8_1/outs/per_sample_outs/21_410_10A/count/sample_filtered_feature_bc_matrix.h5	500	7000	5	V43T29-044/G000178_batch7_10A/outs	3000	1500	10
+21_486_7A	PH592refractory	3	Undifferentiated high grade tumour	FALSE	G000178_batch8_1/outs/per_sample_outs/21_486_7A/count/sample_filtered_feature_bc_matrix.h5	500	15000	5	V43T29-044/G000178_batch7_7A/outs	3000	1500	10
+23_1407_42A	#718	3	100% sarcoma	FALSE	G000178_batch8_1/outs/per_sample_outs/23_1407_42A/count/sample_filtered_feature_bc_matrix.h5	500	50000	5	V43S06-077/G000178_batch7_42A/outs	3000	1500	10
+23_1407_47A	PH003sarcoma	3	100% sarcoma	FALSE	G000178_batch8_1/outs/per_sample_outs/23_1407_47A/count/sample_filtered_feature_bc_matrix.h5	500	20000	5	V43S06-077/G000178_batch7_47A/outs	0	1500	10

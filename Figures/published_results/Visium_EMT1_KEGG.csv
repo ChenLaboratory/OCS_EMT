@@ -1,0 +1,368 @@
+"","Pathway","N","DE","P.DE"
+"hsa04530","Tight junction",170,37,2.37856163953596e-08
+"hsa04110","Cell cycle",158,35,3.56121466917344e-08
+"hsa01100","Metabolic pathways",1583,185,5.38114258706816e-08
+"hsa04814","Motor proteins",197,35,8.6189874688085e-06
+"hsa03030","DNA replication",36,12,1.62104283659733e-05
+"hsa03013","Nucleocytoplasmic transport",108,22,4.92711493584532e-05
+"hsa03082","ATP-dependent chromatin remodeling",117,23,6.01467474958753e-05
+"hsa00100","Steroid biosynthesis",20,8,9.93681727743412e-05
+"hsa03410","Base excision repair",44,12,0.000148398169587172
+"hsa03272","Virion - Hepatitis viruses",48,12,0.000361707423217521
+"hsa04670","Leukocyte transendothelial migration",116,20,0.00105712167714229
+"hsa03430","Mismatch repair",23,7,0.00181352836107915
+"hsa00270","Cysteine and methionine metabolism",52,11,0.00272984173732902
+"hsa04910","Insulin signaling pathway",138,21,0.00393211718421841
+"hsa04015","Rap1 signaling pathway",212,29,0.00403617213719754
+"hsa03420","Nucleotide excision repair",63,12,0.0044627851347139
+"hsa04382","Cornified envelope formation",217,29,0.00563172455039405
+"hsa01230","Biosynthesis of amino acids",75,13,0.00722479503059739
+"hsa00480","Glutathione metabolism",59,11,0.00750134487887407
+"hsa03040","Spliceosome",242,31,0.00796254909083402
+"hsa04218","Cellular senescence",157,22,0.00864151414420016
+"hsa04114","Oocyte meiosis",139,20,0.0090007929800104
+"hsa03015","mRNA surveillance pathway",103,16,0.00908158930553755
+"hsa05160","Hepatitis C",159,22,0.00998268781273077
+"hsa00670","One carbon pool by folate",39,8,0.0121226780680476
+"hsa05130","Pathogenic Escherichia coli infection",203,26,0.0143151200330665
+"hsa03440","Homologous recombination",41,8,0.0163016614658886
+"hsa03083","Polycomb repressive complex",83,13,0.0165574101581548
+"hsa04390","Hippo signaling pathway",157,21,0.0166945238100329
+"hsa04710","Circadian rhythm",34,7,0.0181309515551776
+"hsa01232","Nucleotide metabolism",85,13,0.0199136400682533
+"hsa03018","RNA degradation",78,12,0.0237039541747423
+"hsa01240","Biosynthesis of cofactors",154,20,0.0255906046851238
+"hsa04213","Longevity regulating pathway - multiple species",62,10,0.0276749763543162
+"hsa05230","Central carbon metabolism in cancer",71,11,0.0282463421887502
+"hsa00730","Thiamine metabolism",15,4,0.0291617900403621
+"hsa03460","Fanconi anemia pathway",55,9,0.0328642511480629
+"hsa03267","Virion - Adenovirus",4,2,0.0358030083071652
+"hsa04914","Progesterone-mediated oocyte maturation",111,15,0.0360419607624191
+"hsa04514","Cell adhesion molecules",160,20,0.0365642880102639
+"hsa01212","Fatty acid metabolism",57,9,0.0402605195893929
+"hsa01524","Platinum drug resistance",75,11,0.0402907173988444
+"hsa05418","Fluid shear stress and atherosclerosis",142,18,0.0406023794850503
+"hsa05014","Amyotrophic lateral sclerosis",371,40,0.0418649183444658
+"hsa04714","Thermogenesis",235,27,0.0442049081303835
+"hsa00010","Glycolysis / Gluconeogenesis",67,10,0.0443675588433136
+"hsa00330","Arginine and proline metabolism",50,8,0.0481679194653908
+"hsa00565","Ether lipid metabolism",51,8,0.0532223151534187
+"hsa04370","VEGF signaling pathway",60,9,0.0533404135809305
+"hsa00524","Neomycin, kanamycin and gentamicin biosynthesis",5,2,0.0564748956937646
+"hsa04750","Inflammatory mediator regulation of TRP channels",99,13,0.0589592014358749
+"hsa04066","HIF-1 signaling pathway",110,14,0.0636858293558728
+"hsa00512","Mucin type O-glycan biosynthesis",36,6,0.0692462558669677
+"hsa04068","FoxO signaling pathway",133,16,0.0754201706989457
+"hsa00600","Sphingolipid metabolism",55,8,0.0767489732046698
+"hsa00350","Tyrosine metabolism",37,6,0.0772153088328664
+"hsa00470","D-Amino acid metabolism",6,2,0.0802075009967446
+"hsa05132","Salmonella infection",251,27,0.0847079194399579
+"hsa04930","Type II diabetes mellitus",47,7,0.0853491051884482
+"hsa04657","IL-17 signaling pathway",95,12,0.0854630496536302
+"hsa04971","Gastric acid secretion",76,10,0.0892529955667151
+"hsa04932","Non-alcoholic fatty liver disease",157,18,0.0893922959975479
+"hsa01200","Carbon metabolism",117,14,0.0950664398788834
+"hsa04922","Glucagon signaling pathway",107,13,0.095912214682719
+"hsa00240","Pyrimidine metabolism",58,8,0.0979100123318185
+"hsa00230","Purine metabolism",128,15,0.0988105257268382
+"hsa00340","Histidine metabolism",22,4,0.099670253970892
+"hsa05225","Hepatocellular carcinoma",170,19,0.100064603410584
+"hsa00030","Pentose phosphate pathway",31,5,0.10426848914457
+"hsa04931","Insulin resistance",109,13,0.106967075191291
+"hsa04664","Fc epsilon RI signaling pathway",69,9,0.107809790350821
+"hsa01522","Endocrine resistance",99,12,0.108068524615366
+"hsa05415","Diabetic cardiomyopathy",205,22,0.113042554054055
+"hsa05219","Bladder cancer",41,6,0.113969511308024
+"hsa00260","Glycine, serine and threonine metabolism",41,6,0.113969511308024
+"hsa04152","AMPK signaling pathway",122,14,0.122476136377103
+"hsa04071","Sphingolipid signaling pathway",122,14,0.122476136377103
+"hsa04330","Notch signaling pathway",62,8,0.130718371203778
+"hsa00360","Phenylalanine metabolism",16,3,0.137307437178877
+"hsa00310","Lysine degradation",63,8,0.139707291915034
+"hsa03020","RNA polymerase",34,5,0.140349542277923
+"hsa04148","Efferocytosis",157,17,0.141210560667115
+"hsa00051","Fructose and mannose metabolism",35,5,0.153445136111943
+"hsa04977","Vitamin digestion and absorption",26,4,0.15838722887984
+"hsa05412","Arrhythmogenic right ventricular cardiomyopathy",86,10,0.162604214262281
+"hsa05210","Colorectal cancer",87,10,0.171217057310186
+"hsa01040","Biosynthesis of unsaturated fatty acids",27,4,0.174710185330219
+"hsa05220","Chronic myeloid leukemia",77,9,0.175131796175538
+"hsa04980","Cobalamin transport and metabolism",18,3,0.177824863213024
+"hsa00061","Fatty acid biosynthesis",18,3,0.177824863213024
+"hsa04722","Neurotrophin signaling pathway",120,13,0.180429760203285
+"hsa00514","Other types of O-glycan biosynthesis",47,6,0.182410802837769
+"hsa05100","Bacterial invasion of epithelial cells",78,9,0.184674266160439
+"hsa00562","Inositol phosphate metabolism",78,9,0.184674266160439
+"hsa00062","Fatty acid elongation",28,4,0.191576373929982
+"hsa00601","Glycosphingolipid biosynthesis - lacto and neolacto series",28,4,0.191576373929982
+"hsa04810","Regulation of actin cytoskeleton",232,23,0.192567254328056
+"hsa00920","Sulfur metabolism",10,2,0.19420286453894
+"hsa04960","Aldosterone-regulated sodium reabsorption",38,5,0.195509821676601
+"hsa04919","Thyroid hormone signaling pathway",122,13,0.195932912987977
+"hsa04550","Signaling pathways regulating pluripotency of stem cells",144,15,0.197354077460367
+"hsa04211","Longevity regulating pathway",90,10,0.198298553181256
+"hsa05031","Amphetamine addiction",69,8,0.199613083036937
+"hsa04923","Regulation of lipolysis in adipocytes",59,7,0.204345930671811
+"hsa00564","Glycerophospholipid metabolism",103,11,0.219000428198064
+"hsa00541","Biosynthesis of various nucleotide sugars",20,3,0.221094163602679
+"hsa05120","Epithelial cell signaling in Helicobacter pylori infection",71,8,0.221598147017841
+"hsa01523","Antifolate resistance",30,4,0.226699983820872
+"hsa00563","Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",30,4,0.226699983820872
+"hsa04520","Adherens junction",93,10,0.227090824933667
+"hsa04912","GnRH signaling pathway",93,10,0.227090824933667
+"hsa05205","Proteoglycans in cancer",204,20,0.227403989357934
+"hsa04014","Ras signaling pathway",238,23,0.227773235561512
+"hsa04611","Platelet activation",126,13,0.228669158127684
+"hsa00190","Oxidative phosphorylation",138,14,0.236366810600857
+"hsa00770","Pantothenate and CoA biosynthesis",21,3,0.243460289727573
+"hsa05218","Melanoma",73,8,0.244425782647595
+"hsa04981","Folate transport and metabolism",31,4,0.244837983032176
+"hsa04360","Axon guidance",184,18,0.245154855264109
+"hsa05016","Huntington disease",311,29,0.252922665354255
+"hsa00052","Galactose metabolism",32,4,0.263281437685957
+"hsa04070","Phosphatidylinositol signaling system",98,10,0.278268829421479
+"hsa05214","Glioma",76,8,0.280005208824932
+"hsa04350","TGF-beta signaling pathway",110,11,0.286648518759866
+"hsa03450","Non-homologous end-joining",13,2,0.287945797654426
+"hsa04666","Fc gamma R-mediated phagocytosis",99,10,0.288901047530463
+"hsa00515","Mannose type O-glycan biosynthesis",23,3,0.289100367205739
+"hsa05012","Parkinson disease",271,25,0.290872993303862
+"hsa05212","Pancreatic cancer",77,8,0.292164445074138
+"hsa04935","Growth hormone synthesis, secretion and action",122,12,0.293779799708475
+"hsa05022","Pathways of neurodegeneration - multiple diseases",483,43,0.297305159694542
+"hsa02010","ABC transporters",45,5,0.305384823659144
+"hsa04720","Long-term potentiation",67,7,0.306031017549874
+"hsa05208","Chemical carcinogenesis - reactive oxygen species",227,21,0.307435382656085
+"hsa05010","Alzheimer disease",391,35,0.308948319175832
+"hsa04144","Endocytosis",252,23,0.319546442894947
+"hsa00620","Pyruvate metabolism",47,5,0.338497727312388
+"hsa05161","Hepatitis B",163,15,0.354043914078542
+"hsa00250","Alanine, aspartate and glutamate metabolism",37,4,0.358125288169899
+"hsa01250","Biosynthesis of nucleotide sugars",37,4,0.358125288169899
+"hsa00592","alpha-Linolenic acid metabolism",26,3,0.358359365055424
+"hsa04146","Peroxisome",83,8,0.367238468129166
+"hsa04120","Ubiquitin mediated proteolysis",142,13,0.376396179324984
+"hsa00440","Phosphonate and phosphinate metabolism",6,1,0.400496093342488
+"hsa00750","Vitamin B6 metabolism",6,1,0.400496093342488
+"hsa04966","Collecting duct acid secretion",28,3,0.404084209152006
+"hsa04728","Dopaminergic synapse",133,12,0.404109414164749
+"hsa04911","Insulin secretion",86,8,0.405485703787906
+"hsa04010","MAPK signaling pathway",300,26,0.406144495049008
+"hsa00450","Selenocompound metabolism",17,2,0.410236969928392
+"hsa00590","Arachidonic acid metabolism",63,6,0.411110349922948
+"hsa04115","p53 signaling pathway",75,7,0.415233106993144
+"hsa04918","Thyroid hormone synthesis",75,7,0.415233106993144
+"hsa04151","PI3K-Akt signaling pathway",362,31,0.419224890460093
+"hsa04973","Carbohydrate digestion and absorption",52,5,0.421851340171719
+"hsa04217","Necroptosis",159,14,0.426034990564573
+"hsa00561","Glycerolipid metabolism",65,6,0.440971112998909
+"hsa04820","Cytoskeleton in muscle cells",233,20,0.443139341468303
+"hsa04933","AGE-RAGE signaling pathway in diabetic complications",101,9,0.444395630011574
+"hsa04210","Apoptosis",137,12,0.445105215332404
+"hsa00591","Linoleic acid metabolism",30,3,0.448813818115865
+"hsa00380","Tryptophan metabolism",42,4,0.452822185236589
+"hsa05165","Human papillomavirus infection",333,28,0.466156692266564
+"hsa04928","Parathyroid hormone synthesis, secretion and action",115,10,0.467288942769005
+"hsa04721","Synaptic vesicle cycle",79,7,0.469807898757734
+"hsa03060","Protein export",31,3,0.470668371874832
+"hsa04975","Fat digestion and absorption",43,4,0.471286170218108
+"hsa01521","EGFR tyrosine kinase inhibitor resistance",80,7,0.483277861813152
+"hsa05221","Acute myeloid leukemia",68,6,0.485146862816482
+"hsa05170","Human immunodeficiency virus 1 infection",214,18,0.485282640099545
+"hsa03022","Basal transcription factors",44,4,0.489513955987241
+"hsa04215","Apoptosis - multiple species",32,3,0.492122192652991
+"hsa00740","Riboflavin metabolism",8,1,0.494536347598292
+"hsa04122","Sulfur relay system",8,1,0.494536347598292
+"hsa00983","Drug metabolism - other enzymes",81,7,0.4966507000062
+"hsa05417","Lipid and atherosclerosis",216,18,0.501728700747498
+"hsa05215","Prostate cancer",106,9,0.503390110814255
+"hsa05020","Prion disease",278,23,0.507621305334998
+"hsa04130","SNARE interactions in vesicular transport",33,3,0.513137138669401
+"hsa04920","Adipocytokine signaling pathway",70,6,0.513984002440997
+"hsa05211","Renal cell carcinoma",70,6,0.513984002440997
+"hsa05416","Viral myocarditis",70,6,0.513984002440997
+"hsa04917","Prolactin signaling pathway",71,6,0.528172048245331
+"hsa04150","mTOR signaling pathway",158,13,0.532277558165681
+"hsa05168","Herpes simplex virus 1 infection",183,15,0.53480959476464
+"hsa03266","Virion - Herpesvirus",9,1,0.535877373094014
+"hsa04730","Long-term depression",60,5,0.549747325877408
+"hsa05223","Non-small cell lung cancer",73,6,0.556019256210321
+"hsa04012","ErbB signaling pathway",86,7,0.561636648716637
+"hsa04978","Mineral absorption",61,5,0.564804858640119
+"hsa05166","Human T-cell leukemia virus 1 infection",224,18,0.566204037676108
+"hsa05410","Hypertrophic cardiomyopathy",99,8,0.566771052883698
+"hsa04964","Proximal tubule bicarbonate reclamation",23,2,0.571464745804577
+"hsa04614","Renin-angiotensin system",23,2,0.571464745804577
+"hsa00900","Terpenoid backbone biosynthesis",23,2,0.571464745804577
+"hsa05135","Yersinia infection",138,11,0.580191091023436
+"hsa05216","Thyroid cancer",37,3,0.592227872075955
+"hsa05131","Shigellosis",253,20,0.596541915262946
+"hsa05110","Vibrio cholerae infection",51,4,0.608490160831859
+"hsa00520","Amino sugar and nucleotide sugar metabolism",38,3,0.610653988009146
+"hsa05203","Viral carcinogenesis",205,16,0.61459592326049
+"hsa04921","Oxytocin signaling pathway",155,12,0.621222140777097
+"hsa04929","GnRH secretion",65,5,0.62231950839721
+"hsa05200","Pathways in cancer",533,42,0.624228206881246
+"hsa04926","Relaxin signaling pathway",130,10,0.626617437136013
+"hsa04625","C-type lectin receptor signaling pathway",105,8,0.634506606632622
+"hsa04137","Mitophagy - animal",105,8,0.634506606632622
+"hsa04950","Maturity onset diabetes of the young",26,2,0.639229319956586
+"hsa03265","Virion - Ebolavirus, Lyssavirus and Morbillivirus",12,1,0.640717075825954
+"hsa00500","Starch and sucrose metabolism",40,3,0.645800925240843
+"hsa00650","Butanoate metabolism",27,2,0.659862424551427
+"hsa04270","Vascular smooth muscle contraction",134,10,0.664756704328993
+"hsa05224","Breast cancer",148,11,0.673562064303388
+"hsa04924","Renin secretion",69,5,0.675050958260896
+"hsa00790","Folate biosynthesis",28,2,0.679537671889843
+"hsa05134","Legionellosis",56,4,0.682224368436775
+"hsa04970","Salivary secretion",97,7,0.68907539206791
+"hsa00533","Glycosaminoglycan biosynthesis - keratan sulfate",14,1,0.697109749674711
+"hsa04392","Hippo signaling pathway - multiple species",29,2,0.698273615386397
+"hsa04744","Phototransduction",29,2,0.698273615386397
+"hsa04925","Aldosterone synthesis and secretion",98,7,0.699392582527213
+"hsa05231","Choline metabolism in cancer",99,7,0.709483351087046
+"hsa04622","RIG-I-like receptor signaling pathway",72,5,0.711246722000658
+"hsa00020","Citrate cycle (TCA cycle)",30,2,0.716092172334293
+"hsa04371","Apelin signaling pathway",140,10,0.717535066120069
+"hsa05213","Endometrial cancer",59,4,0.721520836347023
+"hsa04916","Melanogenesis",101,7,0.728979602442003
+"hsa00410","beta-Alanine metabolism",31,2,0.733017951676325
+"hsa04726","Serotonergic synapse",115,8,0.733040241906109
+"hsa03050","Proteasome",46,3,0.737417563426942
+"hsa00603","Glycosphingolipid biosynthesis - globo and isoglobo series",16,1,0.744660738346172
+"hsa04512","ECM-receptor interaction",89,6,0.745440146119186
+"hsa04136","Autophagy - other",32,2,0.749077668944547
+"hsa00630","Glyoxylate and dicarboxylate metabolism",32,2,0.749077668944547
+"hsa05235","PD-L1 expression and PD-1 checkpoint pathway in cancer",90,6,0.755060188102463
+"hsa00280","Valine, leucine and isoleucine degradation",48,3,0.763450240583868
+"hsa04662","B cell receptor signaling pathway",91,6,0.764412255772532
+"hsa05032","Morphine addiction",91,6,0.764412255772532
+"hsa00910","Nitrogen metabolism",17,1,0.765562223872283
+"hsa00430","Taurine and hypotaurine metabolism",17,1,0.765562223872283
+"hsa03273","Virion - Lassa virus and SFTS virus",17,1,0.765562223872283
+"hsa04668","TNF signaling pathway",119,8,0.766928514631547
+"hsa05163","Human cytomegalovirus infection",227,16,0.768430065791817
+"hsa04142","Lysosome",133,9,0.769236414790589
+"hsa04310","Wnt signaling pathway",174,12,0.771436791972065
+"hsa05206","MicroRNAs in cancer",320,23,0.772265240763638
+"hsa04540","Gap junction",92,6,0.773497854091501
+"hsa04972","Pancreatic secretion",106,7,0.773698976786903
+"hsa03250","Viral life cycle - HIV-1",64,4,0.77880152225502
+"hsa05222","Small cell lung cancer",93,6,0.782318916974426
+"hsa04510","Focal adhesion",203,14,0.78459929860045
+"hsa04723","Retrograde endocannabinoid signaling",149,10,0.7860340270445
+"hsa04660","T cell receptor signaling pathway",122,8,0.790241475433155
+"hsa05226","Gastric cancer",150,10,0.792842428909265
+"hsa05169","Epstein-Barr virus infection",205,14,0.796327384525625
+"hsa04659","Th17 cell differentiation",109,7,0.797795753323364
+"hsa00531","Glycosaminoglycan degradation",19,1,0.802378012124503
+"hsa00040","Pentose and glucuronate interconversions",36,2,0.80523739410462
+"hsa04022","cGMP-PKG signaling pathway",166,11,0.80733571451842
+"hsa04612","Antigen processing and presentation",82,5,0.810929437269976
+"hsa04915","Estrogen signaling pathway",139,9,0.811722551033258
+"hsa05143","African trypanosomiasis",37,2,0.817409366791973
+"hsa00785","Lipoic acid metabolism",20,1,0.818560041679009
+"hsa05167","Kaposi sarcoma-associated herpesvirus infection",196,13,0.82195205187902
+"hsa04613","Neutrophil extracellular trap formation",196,13,0.82195205187902
+"hsa00760","Nicotinate and nicotinamide metabolism",38,2,0.828895776724352
+"hsa05340","Primary immunodeficiency",38,2,0.828895776724352
+"hsa04141","Protein processing in endoplasmic reticulum",172,11,0.841544786868131
+"hsa05017","Spinocerebellar ataxia",144,9,0.842390979519308
+"hsa04724","Glutamatergic synapse",116,7,0.846377035234776
+"hsa04260","Cardiac muscle contraction",87,5,0.849362160258459
+"hsa04621","NOD-like receptor signaling pathway",189,12,0.856569392315763
+"hsa05142","Chagas disease",103,6,0.856651831879447
+"hsa05207","Chemical carcinogenesis - receptor activation",217,14,0.857179818968964
+"hsa00982","Drug metabolism - cytochrome P450",73,4,0.857990484274089
+"hsa00220","Arginine biosynthesis",23,1,0.859588944884206
+"hsa04650","Natural killer cell mediated cytotoxicity",134,8,0.866289548017012
+"hsa04216","Ferroptosis",42,2,0.868590618073218
+"hsa04064","NF-kappa B signaling pathway",105,6,0.868696890623544
+"hsa04072","Phospholipase D signaling pathway",149,9,0.869001943870952
+"hsa04976","Bile secretion",90,5,0.86915053645817
+"hsa04062","Chemokine signaling pathway",193,12,0.874492948483788
+"hsa00071","Fatty acid degradation",43,2,0.877097898546919
+"hsa03320","PPAR signaling pathway",76,4,0.878379747014183
+"hsa04940","Type I diabetes mellitus",44,2,0.88509457160202
+"hsa04962","Vasopressin-regulated water reabsorption",44,2,0.88509457160202
+"hsa04620","Toll-like receptor signaling pathway",109,6,0.890266635806237
+"hsa05162","Measles",139,8,0.890559068220297
+"hsa04024","cAMP signaling pathway",226,14,0.892780678433106
+"hsa00860","Porphyrin metabolism",46,2,0.89966121938198
+"hsa05145","Toxoplasmosis",112,6,0.904400471864246
+"hsa04713","Circadian entrainment",97,5,0.906928082036027
+"hsa05164","Influenza A",173,10,0.908629555109886
+"hsa04936","Alcoholic liver disease",144,8,0.911041051126136
+"hsa00970","Aminoacyl-tRNA biosynthesis",66,3,0.914832646309473
+"hsa05321","Inflammatory bowel disease",66,3,0.914832646309473
+"hsa04623","Cytosolic DNA-sensing pathway",83,4,0.916336086965889
+"hsa05030","Cocaine addiction",49,2,0.918314095533299
+"hsa04725","Cholinergic synapse",116,6,0.920787381271058
+"hsa04979","Cholesterol metabolism",51,2,0.928883015215825
+"hsa04742","Taste transduction",86,4,0.929078968771216
+"hsa00053","Ascorbate and aldarate metabolism",31,1,0.929150633644652
+"hsa05146","Amoebiasis",103,5,0.93135196401825
+"hsa04913","Ovarian steroidogenesis",52,2,0.933669956366342
+"hsa00640","Propanoate metabolism",32,1,0.934959438957559
+"hsa05152","Tuberculosis",182,10,0.936000552891415
+"hsa05414","Dilated cardiomyopathy",105,5,0.938120920172064
+"hsa04974","Protein digestion and absorption",105,5,0.938120920172064
+"hsa04961","Endocrine and other factor-regulated calcium reabsorption",53,2,0.938150735892387
+"hsa04727","GABAergic synapse",89,4,0.940044351010797
+"hsa01210","2-Oxocarboxylic acid metabolism",33,1,0.940292557717491
+"hsa04261","Adrenergic signaling in cardiomyocytes",154,8,0.942353358226391
+"hsa04340","Hedgehog signaling pathway",56,2,0.94993157834089
+"hsa00510","N-Glycan biosynthesis",56,2,0.94993157834089
+"hsa04658","Th1 and Th2 cell differentiation",93,4,0.952264966926031
+"hsa04380","Osteoclast differentiation",143,7,0.953612072291765
+"hsa05034","Alcoholism",191,10,0.955972148583743
+"hsa05323","Rheumatoid arthritis",95,4,0.957475844920895
+"hsa05133","Pertussis",78,3,0.959513038942606
+"hsa04020","Calcium signaling pathway",254,14,0.96034438303537
+"hsa05140","Leishmaniasis",79,3,0.962012908019592
+"hsa00980","Metabolism of xenobiotics by cytochrome P450",79,3,0.962012908019592
+"hsa05033","Nicotine addiction",41,1,0.969895351785199
+"hsa04140","Autophagy - animal",169,8,0.971225566823783
+"hsa05202","Transcriptional misregulation in cancer",201,10,0.971509126273008
+"hsa04927","Cortisol synthesis and secretion",65,2,0.973750619382882
+"hsa00513","Various types of N-glycan biosynthesis",44,1,0.976716815541517
+"hsa04610","Complement and coagulation cascades",88,3,0.978817853243873
+"hsa04145","Phagosome",159,7,0.979059256497354
+"hsa05204","Chemical carcinogenesis - DNA adducts",71,2,0.983076091265259
+"hsa04672","Intestinal immune network for IgA production",50,1,0.986076498405798
+"hsa04934","Cushing syndrome",155,6,0.989718556410535
+"hsa04640","Hematopoietic cell lineage",100,3,0.990524114267041
+"hsa04081","Hormone signaling",219,9,0.994596970612215
+"hsa05217","Basal cell carcinoma",63,1,0.995435072261708
+"hsa00140","Steroid hormone biosynthesis",64,1,0.995810618320314
+"hsa00830","Retinol metabolism",68,1,0.997028522016915
+"hsa04082","Neuroactive ligand signaling",199,7,0.997677957175849
+"hsa04061","Viral protein interaction with cytokine and cytokine receptor",100,2,0.998106622495434
+"hsa05150","Staphylococcus aureus infection",102,2,0.998377457488241
+"hsa04630","JAK-STAT signaling pathway",168,5,0.99849222618655
+"hsa04080","Neuroactive ligand-receptor interaction",370,16,0.998988420971158
+"hsa04060","Cytokine-cytokine receptor interaction",298,11,0.999489009806772
+"hsa05171","Coronavirus disease - COVID-19",238,7,0.99978159598102
+"hsa05322","Systemic lupus erythematosus",144,2,0.99994071396287
+"hsa04740","Olfactory transduction",454,3,0.999999999999995
+"hsa01320","Sulfur cycle",2,0,1
+"hsa03271","Virion - Rotavirus",2,0,1
+"hsa00780","Biotin metabolism",3,0,1
+"hsa00290","Valine, leucine and isoleucine biosynthesis",4,0,1
+"hsa03260","Virion - Human immunodeficiency virus",5,0,1
+"hsa00232","Caffeine metabolism",6,0,1
+"hsa00400","Phenylalanine, tyrosine and tryptophan biosynthesis",6,0,1
+"hsa03264","Virion - Flavivirus and Alphavirus",6,0,1
+"hsa00130","Ubiquinone and other terpenoid-quinone biosynthesis",12,0,1
+"hsa00604","Glycosphingolipid biosynthesis - ganglio series",15,0,1
+"hsa00120","Primary bile acid biosynthesis",17,0,1
+"hsa00511","Other glycan degradation",18,0,1
+"hsa00532","Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",21,0,1
+"hsa00534","Glycosaminoglycan biosynthesis - heparan sulfate / heparin",24,0,1
+"hsa05310","Asthma",32,0,1
+"hsa05330","Allograft rejection",39,0,1
+"hsa05332","Graft-versus-host disease",45,0,1
+"hsa05144","Malaria",50,0,1
+"hsa05320","Autoimmune thyroid disease",54,0,1
+"hsa03008","Ribosome biogenesis in eukaryotes",889,7,1
+"hsa03010","Ribosome",928,0,1
