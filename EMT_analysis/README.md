@@ -37,5 +37,7 @@ source("04_Merge_Samples.R")
 source("05_EMT_Bins_Pseudobulk.R")
 ```
 
+The full R analysis pipeline and figure generation are estimated to take approximately 2–6 hours on a modern workstation with 64 GB RAM and SSD storage, excluding package installation and Cell Ranger/Space Ranger processing.
+
 Notes:
 - AUCell breaks ties in the gene rankings at random, so the AUCell scores, and hence the EMT bins, depend on the random seed set in `04_Merge_Samples.R`.
